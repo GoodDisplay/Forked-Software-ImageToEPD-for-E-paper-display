@@ -1,4 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/57305534/200111080-c1421914-af00-42b6-b0f0-3eab3828b769.png)Good-Display-ImageToEPD
+# ![image](https://user-images.githubusercontent.com/57305534/200111331-65cbdad0-9cb9-4fea-9f56-8ab71769e31d.png)Good-Display-ImageToEPD
 
 [See the original product page for more info](https://www.good-display.com/product/418.html) 
 <br/>
