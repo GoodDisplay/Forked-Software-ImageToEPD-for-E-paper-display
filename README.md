@@ -1,16 +1,68 @@
-#ImageToEpd
+# ![image](https://user-images.githubusercontent.com/57305534/200111080-c1421914-af00-42b6-b0f0-3eab3828b769.png)Good-Display-ImageToEPD
 
-Imagetoepd software can automatically take film from pictures. When using, customers only need to select the mode corresponding to the electronic paper IC, and support the automatic generation of three color pictures of two arrays. Generally, UC series corresponds to gdew series electronic paper, and SSD series corresponds to gdeh, GDEM, gdey and gdeq series electronic paper.
+[See the original product page for more info](https://www.good-display.com/product/418.html) 
+<br/>
 
-V3.6: support user-defined resolution image shooting, image inversion, mirroring, 180 degree flipping and other operations.
-
-V3.7: support 12.48 inch monochrome and trichrome image film taking and USB data update, and correct the serial port disconnection problem.
-
-
-
+Product Gallery for the COLOR 7.5 INCH E-PAPER DISPLAY LABEL
+------------------------------------------------------------------------------------------------------------
+<img src="https://www.good-display.com/repository/image/d9d4d2e7-3bfc-442a-82a8-fe06e36ef58e.jpg" />
+<br/>
 
 
-ImageToEpd软件可以自动从图片中拍摄胶片。使用时，客户只需选择电子纸IC对应的模式，并支持自动生成两个阵列的三色图片。通常，UC系列对应gdew系列电子纸，SSD系列对应GDEH、GDEM、GDEY和GDEQ系列电子纸。
+[![image](https://user-images.githubusercontent.com/57305534/200110058-42a41f14-0e68-4ae3-abe2-8b9c715a4117.png)Direct Purchase Gateway](https://buy-lcd.com/products/75-inch-electronic-shelf-label-color-e-ink-display-screen-for-retail-conference-and-industrial-tag-epd-screen-il075ru) 
+<br/>
+------------------------------------------------------------------------------------------------------------
 
-V3.6：支持自定义分辨率图像拍摄、图像反转、镜像、180度翻转等操作。
-V3.7：支持12.48寸单色、三色图片取膜及USB数据更新，修正串口掉线问题。
+# ⚙️Software Description
+
+
+This software enables users with easy access to driving the 7.5 inch E-paper displays with B/W color and also B/W/R color to maker a very beautiful, aesthetic digital signage device!<br/>
+
+<br/>
+
+<br/>
+
+# ⚙️软件简介
+
+
+ImageToWiFi上位机软件使用户能够一键傻瓜式驱动Good Display提供的7.5英寸的墨水屏（支持黑白单色以及黑白红三色的屏幕），您可以选择用我们提供的外壳或者您自己制作的，最后可以得到一个漂亮、美观的电子显示标牌！<br/>
+
+<br/>
+
+<br/>
+
+# ⚙️Instruction
+
+
+1. Software Preview
+<br/>
+<img src="https://www.good-display.com/repository/image/41350dfa-4056-45ca-8d67-2b5c767e865b.jpg" />
+<br/>
+
+2. Settings of Serial Ports
+<br/>
+Users need to first connect the DEMO board to the USB port of the PC to select the related serial port and then open the software to to select the related port. When entered the interface, there will be present available serial ports in the left top column for users to select from and you can press “Clear” to update them. Then click "connect" to finish the connection when "connect is success" appears in the information column.
+<br/>
+<img src="https://www.good-display.com/repository/image/16e18c05-beb7-45d2-b897-b35bd6a09a79.jpg" />
+<br/>
+
+3. Uploading and Saving Images<br/>
+
+1) Image Uploading：Click “Open File” to select one finished image to upload and then the parameters such as size, resolution, RGB and etc of it will appear in the interface.<br/>
+
+2) Image Saving：Click “Save As”to save the image uploaded.
+<br/>
+<img src="https://www.good-display.com/repository/image/a12d64af-cf54-4358-b8f4-c89b6dbd3a6f.jpg" />
+<br/>
+
+
+
+ 
+
+4. Data Transmission<br/>
+
+Click "Display" to transmit the data, which normally in the left information box will appear "Successful handshake" to inform you the connection has been done successfully and the present volume of data transmitted is also visible.<br/>
+<br/>
+<img src="https://www.good-display.com/repository/image/93a3de8c-089c-4980-835f-10343d5eb617.jpg" />
+<br/>
+
